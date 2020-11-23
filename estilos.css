@@ -72,6 +72,15 @@ h3 {text-align: center;
 			 font-weight: 400;	
 
  			}
- hr {border: 25px solid 
- 	color: #345784;
-  }
+/*central*/ 
+/*footer*/ 
+.pie {background-color: #EFC253;	
+      margin-bottom: 0px;	 
+      padding: 20px;
+		}
+.licencia {font-family: 'Roboto', sans-serif;
+ 		  font-weight: 300;
+ 		  line-height: 20px;
+ 		  font-size: 15px;
+		  }
+	  
